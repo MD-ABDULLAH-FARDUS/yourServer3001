@@ -1,0 +1,12 @@
+{
+  "name": "yourserver3001",
+  "version": "1.0.2",
+  "description": "Generating server at port 3001",
+  "main": "index.js",
+  "keywords": [
+    "npm",
+    "yourserver3001"
+  ],
+  "author": "Md Abdullah Fardus",
+  "license": "ISC"
+}
